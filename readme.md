@@ -13,7 +13,7 @@
 
 </div>
 
-> 🎓 **Proyecto universitario**.
+> 🎓 **Proyecto universitario** de *Bases de Datos*.
 
 ---
 
